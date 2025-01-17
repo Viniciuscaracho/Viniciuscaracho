@@ -9,7 +9,6 @@ Hello! My name is Vinicius, and I am a QA Analyst and DevOps enthusiast focused 
 ## Contact Information
 
 - **Phone:** +55 (11) 98150-4864  
-- **Email:** [viniciuscaracho@hotmail.com](mailto:viniciuscaracho@hotmail.com)  
 - **LinkedIn/GitHub:** viniciuscaracho  
 
 ---
